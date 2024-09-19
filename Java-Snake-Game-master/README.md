@@ -1,6 +1,2 @@
-# Java-Snake-Game
-Java Snake game source code
-
-https://zetcode.com/javagames/snake/  
-
-![Snake game screenshot](snake.png)
+A project based on java 
+a snake game based on java
